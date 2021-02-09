@@ -1,0 +1,3 @@
+[submodule "blockchain"]
+	path = blockchain
+	url = https://gist.github.com/744135ddcce87584863398168b63640a.git
