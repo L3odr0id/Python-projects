@@ -1,3 +1,6 @@
 [submodule "blockchain"]
 	path = blockchain
 	url = https://gist.github.com/744135ddcce87584863398168b63640a.git
+[submodule "sly-s-parser"]
+	path = sly-s-parser
+	url = https://github.com/L3odr0id/SLY_s-parser.git
