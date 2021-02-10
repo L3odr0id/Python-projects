@@ -4,3 +4,6 @@
 [submodule "sly-s-parser"]
 	path = sly-s-parser
 	url = https://github.com/L3odr0id/SLY_s-parser.git
+[submodule "git-parser"]
+	path = git-parser
+	url = https://github.com/L3odr0id/git-folder-parser.git
